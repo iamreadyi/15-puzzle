@@ -4,3 +4,5 @@ Submitting to SHARP...
 Job sent.
 Job key: 4a33264f-5ce5-4d9f-8a72-d0465a9979fc
 Fact: 0xd4c710394513bed3e9c8d87560c8865cfef5716fbf81d532a5d186c51734f152
+
+vec F = m times vec a
